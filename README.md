@@ -1,3 +1,2 @@
 # Statistical Computing
-Data Analysis using R 
-to be added
+Data Analysis using R (to be added)
