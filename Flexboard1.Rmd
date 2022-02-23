@@ -1,0 +1,42 @@
+---
+title: "Dashboard 1"
+Author: "Jae Gray"
+Date: "`r Sys.Date()`"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+---
+# Preliminary Analysis
+
+## Columns 1 {data-width=650}
+
+### Descriptive Analysis in Regards to $Revenue
+
+
+
+## Column 2 {data-width=350, .tabset}
+
+### Predictive Analysis
+
+
+### Table
+
+# Overview of Project {.sidebar}
+
+**This Dashboard is made with the Flexdashboard library in R.**
+
+The data used here comes from a mobile gaming company. 
+
+*Exploratory data analysis* is done on the data set once the data is cleaned. This is conducted to understand the data. 
+
+*Descriptive analysis* is conducted and put in visualizations. 
+
+Lastly, *statistical analysis* is done for predictive analysis.
+
+
+# Cleaning {data-navmenu="Data Cleaning"}
+
+# Manipulation {data-navmenu="Data Manipulation"}
+
+# Statistical Data Analysis
