@@ -11,7 +11,7 @@ output:
 
 ## Columns 1 {data-width=650}
 
-### Descriptive Analysis in Regards to $Revenue
+### Descriptive Analysis in Regards to Revenue
 
 
 
